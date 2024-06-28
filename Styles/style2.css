@@ -1,0 +1,43 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+p2{
+    padding:10px;
+    margin:5px;
+    
+}
+
+
+body{
+    background-color: rgb(156, 99, 209);
+    color:brown
+
+}
+
+a{
+    color:rgb(191, 137, 241);
+    
+}
+
+.texto-destacado{
+
+    color:rgb(41, 68, 14);
+
+.urgente{
+
+    color:rgb(226, 59, 59);
+
+}
+
+}
+.titulo-blog{
+    color:rgb(73, 209, 73);
+}
+
+.titulo-blog:hover{
+    background-color: aquamarine;
+    text-decoration-color: aqua;
+}
